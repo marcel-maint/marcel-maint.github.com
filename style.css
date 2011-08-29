@@ -62,9 +62,17 @@ body {
   background-color: #FFF;
   border: 1px solid #000;
   padding: 50px;
-
+  font-size: 20px;
   box-shadow: 0 0 40px 5px rgba(176,203,255,0.9);
+}
 
+p,li {
+  text-align: justify;
+  font-size: 0.8em;
+  line-height: 1.5em;
+}
+p {
+  margin-bottom: 1.5em;
 }
 
 
